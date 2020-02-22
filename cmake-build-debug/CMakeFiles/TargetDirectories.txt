@@ -1,0 +1,3 @@
+C:/Users/benav/CLionProjects/KeyLogger/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/benav/CLionProjects/KeyLogger/cmake-build-debug/CMakeFiles/KeyLogger.dir
+C:/Users/benav/CLionProjects/KeyLogger/cmake-build-debug/CMakeFiles/rebuild_cache.dir
